@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rugved Kadu</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Developer from India with a wide range of intrests in various domains</h3>
 
-- 🔭 I’m currently working on [localhost:5173]
+- 🔭 I’m currently working on localhost:5173
 
-- 🌱 I’m currently learning **Machine Learing**
+- 🌱 I’m currently learning **Flutter (Android App Devlopment)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rugvedkadu06](https://github.com/rugvedkadu06)
 
