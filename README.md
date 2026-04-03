@@ -59,14 +59,14 @@
 > *This isn't an app. This is a Smart City Operating System.*
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  🗺️  OSMnx + NetworkX  →  Route Optimization        │
-│  🧠  KMeans + Voronoi  →  Ward Division              │
-│  📦  MongoDB Atlas     →  Real-time Bin Data         │
-│  🤖  LLM Analytics     →  AI Decision Layer          │
-│  🌧️  Scenario Engine   →  Festival / Monsoon / Overflow│
-│  ⚡  FastAPI + Streamlit→  Backend + Dashboard       │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│  🗺️  OSMnx + NetworkX  →  Route Optimization            │
+│  🧠  KMeans + Voronoi  →  Ward Division                 │
+│  📦  MongoDB Atlas     →  Real-time Bin Data            │
+│  🤖  LLM Analytics     →  AI Decision Layer             │
+│  🌧️  Scenario Engine   →  Festival / Monsoon / Overflow │
+│  ⚡  FastAPI + Streamlit→  Backend + Dashboard          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 **Status:** `STARTUP-READY` | **Category:** `GOVTECH / SMART CITY`
